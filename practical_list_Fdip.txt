@@ -1,0 +1,25 @@
+Practical 1
+
+1. Open Image
+2. Show Dimensions 
+3. Write operation jpg--> png
+4. Read From Camera
+5. Rotate Image 90, 180, 270
+
+Practical 2 (Binary and Arithmatic operation)
+
+1. Add images
+2. Multiply
+3. Subtract 
+4. devide
+5. Resize
+6. Bitwise operations(And,OR,Xor,Not)
+
+Practical 3
+
+1. Digital Negative
+2. log transformation
+3. gamma transformation
+4. Grey level slicing
+5. 
+
